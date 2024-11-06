@@ -1,5 +1,6 @@
-# stock-sample  jpa+redis
+# stock-sample  
 재고시스템 기반 동시성이슈 해결방법 제시
+JPA + Redis 
 
 mac기반 
 작업환경 세팅
